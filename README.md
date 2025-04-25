@@ -5,8 +5,16 @@
 ## Project Status
 This project was developed as part of the Data Science Capstone at MSU in collaboration with Grassroots Midwest. The repository currently contains sensitive information. A sanitized version will be published here soon.
 
-## Name
-GraphRoots
+## Team
+Isabella Tang - tangisab@msu.edu
+
+Pranta Barua - baruapra@msu.edu
+
+Annie Wozniak - woznia80@msu.edu
+
+Suzy Kriser - krisersu@msu.edu
+
+Siddak Marwaha - marwaha3@msu.edu
 
 ## Description
 This repository contains the project work for CMSE 495. This is the capstone for the data science and computational data science programs at Michigan State University, taught by Dr. Dirk Colbry.  Throughout the semester we will be working with our community partner, Grassroots Midwest, to provide a deliverable that meets their expectations. As the project develops, we will be adding and altering files that show our findings.
